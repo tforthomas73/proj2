@@ -53,10 +53,10 @@ img
 }
 iframe
 {
-    max-width: 300px;
-    max-height: auto;
-    width: 300px;
-    height: auto;
+    max-width: 500px;
+    max-height: 315px;
+    width: 500px;
+    height: 315px;
 }
 .rotate180
 {
