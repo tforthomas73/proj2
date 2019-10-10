@@ -4,6 +4,11 @@ body
     color: white;
     background-color: green;
 }
+nav
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
 h1
 {
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -37,4 +42,8 @@ iframe
     max-height: auto;
     width: 150px;
     height: auto;
+}
+.rotate180
+{
+    transform: rotate(180deg);
 }
