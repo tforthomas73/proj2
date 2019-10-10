@@ -46,16 +46,16 @@ li
 }
 img
 {
-    max-width: 300px;
-    max-height: 300px;
-    width: 300px;
-    height: 300px;
+    max-width: 350px;
+    max-height: 315px;
+    width: 350px;
+    height: 315px;
 }
 iframe
 {
-    max-width: 500px;
+    max-width: 350px;
     max-height: 315px;
-    width: 500px;
+    width: 350px;
     height: 315px;
 }
 .rotate180
