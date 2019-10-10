@@ -29,21 +29,30 @@ h4
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
 }
+p
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
 img
 {
-    max-width: 250px;
+    max-width: 300px;
     max-height: auto;
-    width: 250px;
+    width: 300px;
     height: auto;
 }
 iframe
 {
-    max-width: 150px;
+    max-width: 200px;
     max-height: auto;
-    width: 150px;
+    width: 200px;
     height: auto;
 }
 .rotate180
 {
     transform: rotate(180deg);
+}
+.rotate90
+{
+    transform: rotate(90deg);
 }
