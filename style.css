@@ -4,6 +4,26 @@ body
     color: white;
     background-color: green;
 }
+h1
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+h2
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+h3
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+h4
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
 img
 {
     max-width: 250px;
