@@ -43,9 +43,9 @@ img
 }
 iframe
 {
-    max-width: 200px;
+    max-width: 300px;
     max-height: auto;
-    width: 200px;
+    width: 300px;
     height: auto;
 }
 .rotate180
