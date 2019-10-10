@@ -39,6 +39,11 @@ ul
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
 }
+li
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
 img
 {
     max-width: 300px;
@@ -49,15 +54,15 @@ img
 iframe
 {
     max-width: 300px;
-    max-height: 200px;
+    max-height: 300px;
     width: 300px;
-    height: 200px;
+    height: 300px;
 }
 .rotate180
 {
     transform: rotate(180deg);
 }
-.rotate270
+.rotate90
 {
-    transform: rotate(270deg);
+    transform: rotate(90deg);
 }
