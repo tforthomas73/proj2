@@ -4,3 +4,17 @@ body
     color: white;
     background-color: green;
 }
+img
+{
+    max-width: 250px;
+    max-height: auto;
+    width: 250px;
+    height: auto;
+}
+iframe
+{
+    max-width: 150px;
+    max-height: auto;
+    width: 150px;
+    height: auto;
+}
