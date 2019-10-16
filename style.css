@@ -9,13 +9,17 @@ nav
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
 }
-ul
+ol
 {
     margin: 0 auto;
     width: 100%;
     text-align: center;
 }
-#nav ul
+ul
+{
+    text-align: left;
+}
+#nav ol
 {
     display: inline-block;
     list-style-type: none;
